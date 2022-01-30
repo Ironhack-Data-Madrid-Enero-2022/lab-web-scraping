@@ -12,11 +12,19 @@ In this lab, you will practice a series of exercises to test your web scraping s
 
 ## Getting Started
 
-Open the `main.ipynb` file in the `your-code` directory. There are a bunch of questions to be solved. Each exercise is independent from the previous one. If you get stuck in one exercise you can skip to the next one. Read each instruction carefully and provide your answer beneath it. 
+Open the `main.ipynb` file in the `your-code` directory. There are a bunch of questions to be solved. Each exercise is independent from the previous one. If you get stuck in one exercise you can skip to the next one. Read each instruction carefully and provide your answer beneath it.
+
+## Additional Challenge
+
+Now you already figured out how to scrape data from the web, using beautiful soup, you can try to scrape it with selenium.
+1. Create a copy of the `main.ipynb` file in the `your-code` directory and call it `main_selenium.ipynb`.
+1. import selenium, chrome driver etc... as mentioned in class.
+1. Get the same data as in the `main.ipynb` file, but using selenium.
 
 ## Deliverables
 
 - `main.ipynb` with your responses to each of the exercises.
+- `main_selenium.ipynb` with your responses to each of the exercises.
 
 ## Submission
 
@@ -32,6 +40,5 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 [The Anatomy of a Search Engine](http://infolab.stanford.edu/~backrub/google.html)
 
-## Additional Challenges for the Nerds
 
-If you are way ahead of your classmates and willing to accept some tough challenges about Web scraping you will find five bonus questions in the `main.ipynb`. 
+
